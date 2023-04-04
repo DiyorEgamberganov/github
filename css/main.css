@@ -1,0 +1,36 @@
+body {
+  background-color: #f8f9fa; }
+
+.col-md-6 {
+  position: relative; }
+  .col-md-6 .person {
+    position: absolute;
+    width: 130px;
+    top: -70px;
+    left: 265px;
+    border: 10px solid #f8f9fa;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%; }
+  .col-md-6 .h5 {
+    margin-top: 3rem; }
+  .col-md-6 .up {
+    position: absolute;
+    top: -15px;
+    left: 50px; }
+  .col-md-6 .down {
+    position: absolute;
+    bottom: -15px;
+    right: 50px; }
+
+.carousel-indicators .active {
+  background-color: green; }
+
+button span {
+  width: 50px;
+  height: 50px;
+  background-color: #e8e8e8;
+  padding: 1rem;
+  border-radius: 50%; }
+
+/*# sourceMappingURL=main.css.map */
